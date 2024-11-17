@@ -1,0 +1,29 @@
+
+.Herobanner{
+background-color:rgb(191, 191, 207);
+font-family: 'Courier New', Courier, monospace;
+}
+
+.profile-img{
+    border-radius: 50%;
+}
+.about-me{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+.skill-info{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-color: cadetblue;
+}
+.contactMe{
+    background-color:rgb(123, 123, 140);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.footer{
+    background-color:rgb(191, 191, 207);
+    font-family: 'Courier New', Courier, monospace;
+}
